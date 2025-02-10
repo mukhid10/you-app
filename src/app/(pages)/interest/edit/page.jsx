@@ -72,7 +72,7 @@ if (success) {
 
                 <div className="space-y-4 bg-white/10 border-0 placeholder:text-gray-400 p-4 rounded-lg">
                 {
-                    interests.length !== 0 &&
+                    interests?.length !== 0 &&
                     <div className="flex flex-wrap gap-2">
                     {interests.map((interest) => (
                         <span

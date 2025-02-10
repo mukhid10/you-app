@@ -22,7 +22,7 @@ function Interest(props) {
             </div>
         </div>
         {
-          data?.interests.length && data?.interests.length !== 0 ?
+          data?.interests?.length && data?.interests?.length !== 0 ?
           <div className="flex flex-wrap gap-2">
           {data?.interests.map((interest) => (
               <span
