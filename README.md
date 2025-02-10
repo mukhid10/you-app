@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# YouApp
+
+Welcome to My Web Application! YouApp.
+
+## Features
+
+### 1. Login
+Users can securely log into their accounts using their credentials. The login feature ensures that only authorized users can access protected areas of the application.
+
+### 2. Register
+New users can create an account by registering with their email address and password. This feature allows users to join the platform and access personalized content.
+
+### 3. About
+The About page provides general information about the application or the user's profile. It displays relevant details that give context to the user's presence on the platform.
+
+### 4. Edit About
+Users have the ability to modify their About information. This feature allows for updating personal details, ensuring that the user's profile remains current and accurate.
+
+### 5. Edit Interest
+Users can manage their interests through this feature. It enables them to add, remove, or update their areas of interest, which can be used to personalize their experience within the application.
 
 ## Getting Started
 
-First, run the development server:
+To use these features:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Register for an account if you're a new user.
+2. Log in with your credentials.
+3. Visit your profile to view your About information.
+4. Use the Edit About feature to update your profile information.
+5. Manage your interests using the Edit Interest feature.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Feedback
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+We're constantly improving our application. If you have any suggestions or encounter any issues, please don't hesitate to contact our support team.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Thank you for using My Web Application!
